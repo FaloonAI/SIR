@@ -1,4 +1,0 @@
-telethon
-rich
-typer
-python-dotenv
